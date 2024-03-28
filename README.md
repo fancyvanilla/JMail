@@ -1,6 +1,6 @@
 # JMail
 
-JMail is a simple messaging application built using Java. It allows multiple clients to send messages to other clients.
+JMail is a simple messaging application built using Java. It allows clients to send and receive messages.
 
 ## Features
 
